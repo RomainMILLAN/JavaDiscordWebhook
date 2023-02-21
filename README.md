@@ -1,5 +1,5 @@
-# JavaDiscordWebhook
-Une librairie qui permet d'utiliser les webhooks facilement avec Java Discord API
+# JavaDiscordWebhook🏷️
+Une librairie qui permet d'utiliser les webhooks facilement avec Java Discord API<br/>
 Fait par Romain MILLAN
 
 ## Parties
@@ -9,7 +9,7 @@ Fait par Romain MILLAN
        - [Envoyer un message texte](#send-textmessages)
        - [Envoyer un embed](#send-embeds)
 2. [Changer les informations de la webhook](#change-webhook-metas)
-3. [Télécharger](https://github.com/RomainMILLAN/)
+3. [Télécharger](https://github.com/RomainMILLAN/JavaDiscordWebhook/releases)
 
 ## Commencer facilement
 ### Crée un client
