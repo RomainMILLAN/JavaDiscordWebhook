@@ -34,7 +34,7 @@ webhook.execute(); //Execute le client et envoye les messages
 #### Envoyer des embeds
 ```java
 EmbedObject embed = new EmbedObject();
-    embed.setTitle("Hello World"); //Définie le titre
+    embed.setTitle("Salut tous le monde !"); //Définie le titre
     embed.setAuthor("Wabezeter#3701", "https://github.com/RomainMILLAN/", null); //Définie l'author
     embed.setColor(Color.CYAN); //Définie la couleur
     embed.setDescription("Une belle description"); //Définie la description
