@@ -14,10 +14,7 @@ Fait par Romain MILLAN
 ## Commencer facilement
 ### Crée un client
 ```java
-JavaDiscordWebhook webhook = new JavaDiscordWebhook.Builder()
-   .setToken("TOKEN DE LA WEBHOOK")
-   .setID("ID DE LA WEBHOOK") //LONG
-   .build();
+JavaDiscordWebhook webhook = new JavaDiscordWebhook(TOKEN DE LA WEBHOOK, ID DE LA WEBHOOK);
 ```
 ### Envoyer un message
 #### Envoyer un message texte
