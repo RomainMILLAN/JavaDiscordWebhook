@@ -9,7 +9,7 @@ Fait par Romain MILLAN
        - [Envoyer un message texte](#send-textmessages)
        - [Envoyer un embed](#send-embeds)
 2. [Changer les informations de la webhook](#change-webhook-metas)
-3. [Télécharger](https://github.com/MauricePascal/JavaDIscordWebhookClient/raw/master/out/artifacts/JavaDiscordWebhookClient/JavaDiscordWebhookClient.jar)
+3. [Télécharger](https://github.com/RomainMILLAN/)
 
 ## Commencer facilement
 ### Crée un client
@@ -35,7 +35,7 @@ webhook.execute(); //Execute le client et envoye les messages
 ```java
 EmbedObject embed = new EmbedObject();
     embed.setTitle("Hello World"); //Définie le titre
-    embed.setAuthor("MauricePascal#3009", "https://github.com/Wabez3ter", null); //Définie l'author
+    embed.setAuthor("Wabezeter#3701", "https://github.com/RomainMILLAN/", null); //Définie l'author
     embed.setColor(Color.CYAN); //Définie la couleur
     embed.setDescription("Une belle description"); //Définie la description
     embed.setFooter("By Romain MILLAN", null); //Définie le footer
