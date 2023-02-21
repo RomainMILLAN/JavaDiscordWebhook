@@ -2,7 +2,7 @@ fr/romainmillan/jdw/objects/EmbedObject$Footer.class
 fr/romainmillan/jdw/objects/EmbedObject$Field.class
 fr/romainmillan/jdw/objects/EmbedObject$Thumbnail.class
 fr/romainmillan/jdw/objects/EmbedObject$JSONObject.class
-fr/romainmillan/jdw/objects/EmbedObject$1.class
+fr/romainmillan/jdw/JavaDiscordWebhook$Builder.class
 fr/romainmillan/jdw/objects/EmbedObject.class
 fr/romainmillan/jdw/JavaDiscordWebhook.class
 fr/romainmillan/jdw/objects/EmbedObject$Image.class

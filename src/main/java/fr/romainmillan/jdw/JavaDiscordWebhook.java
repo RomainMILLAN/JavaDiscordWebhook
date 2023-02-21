@@ -150,6 +150,32 @@ public class JavaDiscordWebhook {
         connection.disconnect();
     }
 
+    class Builder {
+
+        public static String url = null;
+        public static Long id = null;
+
+        public Builder setToken(String url) {
+            Builder.url = url;
+            return this;
+        }
+
+        public Builder setID(String id) {
+            Builder.id = Long.getLong(id);
+            return this;
+        }
+
+        public Builder setID(Long id) {
+            Builder.id = id;
+            return this;
+        }
+
+        public JavaDiscordWebhook build() {
+            return new JavaDiscordWebhook(Builder.url, Builder.id);
+        }
+
+    }
+
     /**
      *
      * Copyright (C) 2023 by Romain MILLAN, all rights reserved
